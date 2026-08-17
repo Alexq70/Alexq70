@@ -91,7 +91,6 @@ Coursework in programming, databases, data structures, networking, operating sys
 
 ---
   - Location: Costa Rica
-  - Contact: 64871415
   - Email: alexquesadab7@gmail.com 
   - Linkedin: www.linkedin.com/in/alex-quesada-bermudez-a894143b9 
   - Github: https://github.com/Alexq70
